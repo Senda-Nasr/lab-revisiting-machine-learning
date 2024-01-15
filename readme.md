@@ -2,7 +2,7 @@
 
 # Lab | Revisiting Machine Learning Case Study
 
-- In this lab, you will use `learningSet.csv` file which is compressed in the repo in "learningSet.7z" and must be uncompressed before executing the code. 
+- In this lab, you will use `learningSet.csv` file which is compressed in the repo in `learningSet.7z` and must be uncompressed before executing the code. 
 
 ### Instructions
 
